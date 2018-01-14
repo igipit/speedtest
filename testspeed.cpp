@@ -1,4 +1,4 @@
-// ConsoleApplication3.cpp: definisce il punto di ingresso dell'applicazione console.
+﻿// ConsoleApplication3.cpp: definisce il punto di ingresso dell'applicazione console.
 //
 #include <chrono>
 #include <iostream>
