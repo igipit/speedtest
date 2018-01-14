@@ -1,1 +1,1 @@
-Questo è un sem'plice file di prova
+﻿Questo è un semplice file di prova
