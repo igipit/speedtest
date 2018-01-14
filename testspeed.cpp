@@ -10,7 +10,7 @@
 
 int main()
 {
-
+// ecco
 	float a[ASZ], b[ASZ];
 	for (int i = 0; i != ASZ; ++i)
 		a[i] = b[i] = 1.0;
